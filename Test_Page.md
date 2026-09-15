@@ -1,1 +1,6 @@
-This is the test of a second page.
+layout: page
+title: "TEST"
+permalink: /TEST
+
+
+This is a test page
